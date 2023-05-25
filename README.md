@@ -15,14 +15,4 @@ This repository contains the complete capstone project, showcasing the developme
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
 
-To run this project locally, you need to have the following software installed:
-
-- Python 3.x
-- Jupyter Notebook
-
-To install the required Python dependencies, use the following command:
-
-```shell
-pip install -r requirements.txt
